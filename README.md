@@ -15,9 +15,8 @@ building scalable cloud systems and smooth UI/UX experiences.
 - ☁️ **AWS & DevOps:** IAM, EC2, ECS (Fargate), ECR, VPC, ALB, Route 53, CloudWatch, Linux  
 - ⚛️ **Frontend:** React.js, Redux Toolkit, HTML, CSS, JavaScript  
 - 🔄 **CI/CD:** GitLab, Jenkins  
-- 📗 Preparing for **AWS Solutions Architect – Associate Certification**  
-- 🎤 Love public speaking—cleared multiple competitive rounds  
-- 💼 Open to Cloud / DevOps / Frontend opportunities  
+- 📗 Preparing for **AWS Solutions Architect – Associate Certification**   
+- 💼 Open to Cloud / DevOps opportunities  
 
 ---
 
@@ -25,26 +24,46 @@ building scalable cloud systems and smooth UI/UX experiences.
 
 <div align="center">
 
-<!-- Cloud & DevOps -->
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gitlab,linux,terraform,kubernetes" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite" />
 
 <br/>
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,js,vite,tailwind" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/>
+
+<!-- Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,gitlab,bash,powershell,ansible,heroku,vercel,netlify" />
 
 <br/>
 
 <!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,dynamodb" />
+
+<br/>
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python" />
 
 <br/>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,notion" />
+
+<br/>
+
+<!-- UI / Animation -->
+<img src="https://skillicons.dev/icons?i=gsap" />
+
+<br>
+
+<!-- AI / ML -->
+<img src="https://skillicons.dev/icons?i=jupyter,colab" />
+
 
 </div>
-
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
@@ -52,7 +71,7 @@ building scalable cloud systems and smooth UI/UX experiences.
 - 🏆 **Grand Finalist** – Smart India Hackathon 2024  
 - 🥈 **Finalist** – Yukti Innovation Challenge 2023  
 - 🥇 **1st Rank** – University TechFest (Smart Document Management System PoC)  
-- 🎤 Cleared 2 competitive rounds in **Public Speaking**  
+- 🥉 **3rd Position** – IEEE Game Development Contest
 
 ---
 
@@ -73,7 +92,7 @@ Designed a custom VPC with public/private subnets across multiple AZs. Deployed 
 🔗 Live: [Obys Agency](https://shiva-cosmic.github.io/ObysAgency/)  
 
 ### 🔹 **My Developer Portfolio**  
-🔗 Live: [Portfolio](https://shiva-cosmic.github.io/ShivanshhPortfolio/)  
+🔗 Live: [Portfolio](https://shivanshh-portfolio.vercel.app/)  
 
 ---
 
@@ -94,7 +113,7 @@ Designed a custom VPC with public/private subnets across multiple AZs. Deployed 
 <a href="http://www.linkedin.com/in/shiv-celestial">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<a href="https://shiva-cosmic.github.io/ShivanshhPortfolio/">
+<a href="https://shivanshh-portfolio.vercel.app/">
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/internet.png" height="50"/>
 </a>
 <a href="mailto:imshiv311@gmail.com">
