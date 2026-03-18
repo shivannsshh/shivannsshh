@@ -89,7 +89,7 @@ Designed a custom VPC with public/private subnets across multiple AZs. Deployed 
 🔗 Live: [Money Tracker](https://money-tracker-five-pearl.vercel.app/)  
 
 ### 🔹 **Obys Agency Clone**  
-🔗 Live: [Obys Agency](https://shiva-cosmic.github.io/ObysAgency/)  
+🔗 Live: [Obys Agency](https://shivannsshh.github.io/ObysAgency/)  
 
 ### 🔹 **My Developer Portfolio**  
 🔗 Live: [Portfolio](https://shivanshh-portfolio.vercel.app/)  
