@@ -64,7 +64,7 @@ building scalable cloud systems and smooth UI/UX experiences.
 
 
 </div>
----
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3272/3272606.png" width="25"/> Achievements  
 
@@ -94,7 +94,7 @@ Designed a custom VPC with public/private subnets across multiple AZs. Deployed 
 ### 🔹 **My Developer Portfolio**  
 🔗 Live: [Portfolio](https://shivanshh-portfolio.vercel.app/)  
 
----
+
 
 ## 🎓 Certifications  
 
@@ -121,7 +121,7 @@ Designed a custom VPC with public/private subnets across multiple AZs. Deployed 
 </a>
 </div>
 
----
+
 
 ## <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats</div>
 
@@ -129,7 +129,7 @@ Designed a custom VPC with public/private subnets across multiple AZs. Deployed 
   <img src="https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false" />
 </div>
 
----
+
 
 ## <div align="center"> ✍️ Random Dev Quote  </div>
 <div align="center">
