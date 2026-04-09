@@ -126,7 +126,7 @@ Designed a custom VPC with public/private subnets across multiple AZs. Deployed 
 ## <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="25"/> GitHub Stats</div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shiva-cosmic&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivannsshh&theme=dark&hide_border=false" />
 </div>
 
 
